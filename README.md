@@ -12,6 +12,7 @@ Before you click **Insert → New Layout**, define:
 
 A layout without purpose becomes cluttered quickly.  
 Professional cartography begins with clarity.
+<img width="1100" height="1010" alt="image" src="https://github.com/user-attachments/assets/b9a3a4d3-9b74-4194-8035-4d1a4ed86fa4" />
 
 ---
 
