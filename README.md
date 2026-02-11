@@ -22,11 +22,11 @@ Professional cartography begins with clarity.
 
 Screenshots:
 
-- <img width="1063" height="223" alt="image" src="https://github.com/user-attachments/assets/1b270942-e93b-4bbc-8801-c7553dd31aa7" />
+<img width="1063" height="223" alt="image" src="https://github.com/user-attachments/assets/1b270942-e93b-4bbc-8801-c7553dd31aa7" />
 
-- <img width="1100" height="1262" alt="image" src="https://github.com/user-attachments/assets/9426bc8c-e723-4b34-a88f-4d547f42401c" />
+<img width="1100" height="1262" alt="image" src="https://github.com/user-attachments/assets/9426bc8c-e723-4b34-a88f-4d547f42401c" />
 
-- <img width="1100" height="1262" alt="image" src="https://github.com/user-attachments/assets/96d6e4fd-108e-4722-9830-d1ab33ab008b" />
+<img width="1100" height="1262" alt="image" src="https://github.com/user-attachments/assets/96d6e4fd-108e-4722-9830-d1ab33ab008b" />
 
 Choose carefully:
 
@@ -83,11 +83,11 @@ Before finalizing:
 
 Screenshots:
 
-- <img width="1100" height="672" alt="image" src="https://github.com/user-attachments/assets/9c95e813-5b18-4d1e-93aa-eed93c29eb23" />
+<img width="1100" height="672" alt="image" src="https://github.com/user-attachments/assets/9c95e813-5b18-4d1e-93aa-eed93c29eb23" />
 
-- <img width="1100" height="676" alt="image" src="https://github.com/user-attachments/assets/e052f13b-b669-401a-a103-e738580b2098" />
+<img width="1100" height="676" alt="image" src="https://github.com/user-attachments/assets/e052f13b-b669-401a-a103-e738580b2098" />
 
-- <img width="1100" height="668" alt="image" src="https://github.com/user-attachments/assets/0173886e-0fdd-4984-ad8b-5ba6b3bd2206" />
+<img width="1100" height="668" alt="image" src="https://github.com/user-attachments/assets/0173886e-0fdd-4984-ad8b-5ba6b3bd2206" />
 
 
 For infrastructure or engineering maps:
@@ -114,11 +114,11 @@ Refine it:
 
 Screenshots:
 
-- <img width="1100" height="109" alt="image" src="https://github.com/user-attachments/assets/3e9b4ed4-af7f-4737-afba-977a64f2c99f" />
+<img width="1100" height="109" alt="image" src="https://github.com/user-attachments/assets/3e9b4ed4-af7f-4737-afba-977a64f2c99f" />
 
-- <img width="597" height="476" alt="image" src="https://github.com/user-attachments/assets/10bd71b7-7faa-43a0-9fbc-17f982c390a3" />
+<img width="597" height="476" alt="image" src="https://github.com/user-attachments/assets/10bd71b7-7faa-43a0-9fbc-17f982c390a3" />
 
-- <img width="394" height="201" alt="image" src="https://github.com/user-attachments/assets/913bbee8-5d9a-4e33-b5fd-e345aba75b1b" />
+<img width="394" height="201" alt="image" src="https://github.com/user-attachments/assets/913bbee8-5d9a-4e33-b5fd-e345aba75b1b" />
 
 
 A legend should be a controlled explanation — not an automatic list.
@@ -171,9 +171,9 @@ For print:
 
 Screenshots:
 
-- <img width="786" height="1687" alt="image" src="https://github.com/user-attachments/assets/1c158160-2a9b-4598-9b02-fc71fbb0788a" />
+<img width="786" height="1687" alt="image" src="https://github.com/user-attachments/assets/1c158160-2a9b-4598-9b02-fc71fbb0788a" />
 
-- <img width="735" height="910" alt="image" src="https://github.com/user-attachments/assets/480608ad-ead6-4cfc-a8c0-94dacbcf1f05" />
+<img width="735" height="910" alt="image" src="https://github.com/user-attachments/assets/480608ad-ead6-4cfc-a8c0-94dacbcf1f05" />
 
 
 For web:
