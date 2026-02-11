@@ -115,7 +115,7 @@ Refine it:
 
 Screenshots:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3e9b4ed4-af7f-4737-afba-977a64f2c99f" />
+<img width="1100" height="109" alt="image" src="https://github.com/user-attachments/assets/d5f25e02-0bc2-42e8-ba8f-5176f291af4b" />
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/10bd71b7-7faa-43a0-9fbc-17f982c390a3" />
 
