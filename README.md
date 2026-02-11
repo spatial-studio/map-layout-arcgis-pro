@@ -23,7 +23,7 @@ Professional cartography begins with clarity.
 
 Screenshots:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1b270942-e93b-4bbc-8801-c7553dd31aa7" />
+<img width="1063" height="223" alt="image" src="https://github.com/user-attachments/assets/1b8c1976-90e5-49c6-901a-d764ada8d55d" />
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9426bc8c-e723-4b34-a88f-4d547f42401c" />
 
